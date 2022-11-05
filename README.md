@@ -1,4 +1,7 @@
-¡Bienvenido a mi perfil en Github! 👨‍💻
+
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?size=30&color=3d85c6&lines=Bienvenido+a+mi+portafolio.%7C">
+</p>
 <div style="display: inline_block"><br>
 <img title="Html5" align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img title="CSS3"align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
